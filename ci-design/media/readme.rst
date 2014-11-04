@@ -1,23 +1,25 @@
-##########################
-CodeIgniter Website Design
-##########################
+#################
+CodeIgniter Media
+#################
 
-This branch of the ci-design repository holds the style used on the codeigniter.com website.
+This branch of the ci-design repository holds media referenced in the user guide,
+and available in the user guide in zipped form.
 
 
 ***************
 Project Folders
 ***************
 
-website/        Two sample HTML files using the CI site style
-website/assets  CSS, javascript, fonts & images comprising the "style"
+media/          base folder
+media/ci-logos  vector-graphics logo for re-use
+media/smileys   Emoticons used by the smiley helper
 
 
 ************
 Installation
 ************
 
-Extract. Enjoy the two sample HTML files.
+Extract. Enjoy.
 
 
 *******
