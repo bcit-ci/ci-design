@@ -12,7 +12,6 @@ Project Folders
 
 media/          base folder
 media/ci-logos  vector-graphics logo for re-use
-media/smileys   Emoticons used by the smiley helper
 
 
 ************
